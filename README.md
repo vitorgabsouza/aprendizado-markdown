@@ -53,7 +53,7 @@ Para criar uma lista com marcadores, utilizamos a marcação de \* ou \- seguida
 Para criar uma lista de tarefas, utiliza-se a marcação de \- \[] ou \- \[x] para itens marcados. Exemplo:
 
 - [ ] pão
-- [ x ] leite
+- [x] leite
 - [ ] manteiga
 
 # Títulos:
@@ -116,7 +116,7 @@ Como **Cora Coralina** disse:
 
 Para mencionar usuários, utilizamos \@. Exemplo:
 
-Meu perfil é @vitorgabsouza.
+Meu perfil é @vitorgabsouza
 
 Para mencionar Issues, utilizamos \# seguida pelo número da Issue.
 
@@ -139,8 +139,11 @@ Sorvete de Creme | Sobremesa | R$ 4,50
 ## Alinhamentos
 
 \--- Formatação padrão (esquerda)
+
 \:--- Esquerda
+
 \:---: Centralizado
+
 \---: Direita
 
 
