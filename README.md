@@ -107,7 +107,7 @@ Para citações externas, podemos usar \>. Exemplo:
 
 Como ***Cora Coralina*** disse:
 
-> Não lamente o que podia tere se perdeu por caminhos errados e nunca mais voltou.
+> Não lamente o que podia ter e se perdeu por caminhos errados e nunca mais voltou.
 
 ## Citações de usuários 
 
