@@ -8,7 +8,7 @@ Repositório para aprendizado da linguagem Markdown durante o curso de Git e Git
 
 Para deixar um texto em itálico, utilizamos \* ou \_. Exemplo:
 
-Eu sou o **Vitor** e este é meu perfil no _GitHub_!
+Eu sou o *Vitor* e este é meu perfil no _GitHub_!
 
 ## Negrito
 
