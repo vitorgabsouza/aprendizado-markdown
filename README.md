@@ -44,7 +44,7 @@ Para criar uma lista numerada, colocamos o número seguido de um ponto. Os itens
 Para criar uma lista com marcadores, utilizamos \* ou \- seguido de um espaço. Exemplo:
 
 - Ir ao mercado
-* Ir à farmácia
+- Ir à farmácia
 
 ## Listas de tarefas
 
