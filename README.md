@@ -128,7 +128,7 @@ Boas iniciativas merecem aplausos :clap:
 Para criar tabelas, utilizamos \| e \- de forma organizada. Exemplo:
 
 Produto | 	Categoria |	Preço
-:---: | :---: | ---:
+:--- | :---: | ---:
 Coxinha de Frango |	Aperitivo	| R$ 5,00
 Macarrão ao Molho de Tomate	| Prato Principal	| R$ 15,00
 Sorvete de Creme	| Sobremesa	| R$ 4,50
