@@ -50,9 +50,9 @@ Para criar uma lista com marcadores, utilizamos \* ou \- seguido de um espaço. 
 
 Para criar uma lista de tarefas, utilizamos \- \[] ou \- \[x] para itens marcados. Exemplo:
 
-[ ] pão
-[x] leite
-[ ] manteiga
+- [ ] pão
+- [x] leite
+- [ ] manteiga
 
 # Títulos
 
