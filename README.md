@@ -56,7 +56,7 @@ Para criar uma lista de tarefas, utilizamos \- \[] ou \- \[x] para itens marcado
 
 # Títulos
 
-Para criar um título, podemos usar de uma \# até seis \# para cada nível de título. Exemplo:
+Para criar um título, podemos usar de um \# até seis \# para cada nível de título. Exemplo:
 
 # Título 1
 ## Título 2
@@ -119,7 +119,7 @@ Para citar Issues, utilizamos \# seguida pelo número da Issue.
 
 # Emojis
 
-Para utilizar emojis, utilizamos \::. Exemplo:
+Para utilizar emojis, utilizamos \:emoji\:. Exemplo:
 
 Boas iniciativas merecem aplausos :clap:
 
