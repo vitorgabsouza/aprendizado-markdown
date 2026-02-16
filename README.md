@@ -1,6 +1,6 @@
-# Aprendizado de Markdown
+# Aprendizado de markdown
 
-Repositório para aprendizado da linguagem Markdown durante o curso de Git e GitHub ministrado pelo Prof. Gustavo Guanabara.
+Repositório para aprendizado da linguagem Markdown durante o curso de Git e GitHub ministrado pelo **Professor Gustavo Guanabara**.
 
 # Formatações
 
