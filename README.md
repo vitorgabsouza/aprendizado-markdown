@@ -20,7 +20,7 @@ Eu sou o **Vitor** e este é meu perfil no __GitHub__
 
 Para riscar um texto, utilizamos \~~. Exemplo:
 
-Este ~~texto~~ está riscado.
+Este ~~texto~~ está riscado
 
 ## Formatações misturadas
 
