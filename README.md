@@ -8,13 +8,13 @@ Repositório para aprendizado da linguagem Markdown durante o curso de Git e Git
 
 Para deixar um texto em itálico, utilizamos \* ou \_. Exemplo:
 
-Eu sou o *Vitor* e este é meu perfil no _GitHub_!
+Eu sou o *Vitor* e este é meu perfil no _GitHub_
 
 ## Negrito
 
 Para deixar um texto em negrito, utilizamos \** ou \__. Exemplo:
 
-Eu sou o **Vitor** e este é meu perfil no __GitHub__!
+Eu sou o **Vitor** e este é meu perfil no __GitHub__
 
 ## Riscado (strike)
 
@@ -26,7 +26,7 @@ Este ~~texto~~ está riscado.
 
 Para criar formatações misturadas, utilizamos as marcas de forma hierárquica. Exemplo:
 
-Eu sou o _**Vitor**_ e este é meu perfil no _**GitHub**_!
+Eu sou o _**Vitor**_ e este é meu perfil no _**GitHub**_
 
 # Listas
 
@@ -88,15 +88,15 @@ Para inserir um link, utilizamos \[]\(). Exemplo:
 
 Para inserir trechos de código de uma linha, utilizamos \`. Exemplo:
 
-`alert('Olá, mundo!');`
+`alert('Olá, mundo');`
 
 ## Trechos de código com mais de uma linha
 
 Para inserir trechos de código com mais de uma linha, utilizamos \```. Exemplo:
 
 ```
-alert('Olá, mundo!');
-alert('Estou aprendendo Markdown!');
+alert('Olá, mundo');
+alert('Estou aprendendo Markdown');
 ```
 
 # Citações
