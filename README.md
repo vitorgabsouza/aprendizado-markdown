@@ -74,7 +74,7 @@ Texto após a linha
 
 Para inserir uma imagem, utilizamos \!\[]\(), onde a descrição da imagem fica entre os colchetes e o caminho da imagem fica entre os parênteses. Exemplo:
 
-![Calculadora](calculator.svg)
+![Calculadora](imagens/calculadora.svg)
 
 # Links
 
